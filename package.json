@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mqtt-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thingsup/NodeJS-MQTT-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thingsup/NodeJS-MQTT-Example/issues"
+  },
+  "homepage": "https://github.com/thingsup/NodeJS-MQTT-Example#readme",
+  "dependencies": {
+    "mqtt": "^4.2.1"
+  }
+}
