@@ -29,4 +29,4 @@ Read [Getting Started](https://thingsup.io/getting-started/).
 [Thingsup](https://thingsup.io) is an Enterprise IoT Platform developed by [iobot technologies](https://www.iobot.in) 
 
 ## License
-[MIT]
+MIT
