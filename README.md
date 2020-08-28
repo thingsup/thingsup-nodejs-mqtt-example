@@ -1,4 +1,4 @@
-# NodeJS-MQTT-Example
+# Thingsup : NodeJS-MQTT-Example
 
 This example demonstrates Thingsup MQTT Service with NodeJS Client.
 
